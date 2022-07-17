@@ -1,0 +1,16 @@
+{
+  "name": "reska",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "viper",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "@discordjs/voice": "^0.10.0"
+  }
+}
