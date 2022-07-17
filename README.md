@@ -6,3 +6,5 @@ also if you want to use this source, dont forget to install discord.js and edit 
 
 فارسی: 
 سلام، این اولین نسخه از ربات کد نویسی شده خودم (reska) است که کنترل کننده فرمان نداشته و چند cmd ساده با تابع رول رنگین کمان دارد. برای انتشار آخرین نسخه ربات من، لطفا این پروژه را ستاره دار کنید، همچنین اگر می خواهید از این منبع استفاده کنید، فراموش نکنید که discord.js را نصب کنید و فایل config.json را ویرایش کنید.
+
+discord: https://discord.gg/CrC93PvD6p
